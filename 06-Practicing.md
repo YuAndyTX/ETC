@@ -3,14 +3,14 @@
 ## Practicing
 
 ### Content:
-* [SOME BACKGROUND ON PRACTICING](#background-practicing)
-   * [Twenty-Two Zeros](#twenty-two)
-   * [Turnaround Time](#turnaround)
-* [THE CODING DOJO](#coding-dojo)
+* [SOME BACKGROUND ON PRACTICING](#some-background-on-practicing)
+   * [Twenty-Two Zeros](#twenty-two-zeros)
+   * [Turnaround Time](#turnaround-time)
+* [THE CODING DOJO](#the-coding-dojo)
    * [Kata](#kata)
    * [Wasa](#wasa)
    * [Randori](#randori)
-* [BROADENING YOUR EXPERIENCE](#broadening)
+* [BROADENING YOUR EXPERIENCE](#broadening-your-experience)
    * [Open Source](#open-source)
    * [Practice Ethics](#practice-ethics)
 * [CONCLUSION](#conclusion)
