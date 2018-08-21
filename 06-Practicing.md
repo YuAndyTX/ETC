@@ -27,7 +27,9 @@
 Supaya tubuh dapat menghasilkan reaksi yang tepat dibutuhkan latihan. Dalam kasus pengembangan perangkat lunak, programmer berlatih dengan cara mengulang-ulang suatu masalah dan penyelesaiannya sehingga dapat mengetahuinya secara di luar kepala. </br>
 
 ### THE CODING DOJO
-&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Pada 2005, penulis menghadiri konfrensi XP2005 di Sheffield, Inggris. Ia mengikuti sesi yang bernama <i>Coding Dojo</i>. Dalam sesi itu, instruktur mengajak semua peserta live code bersama-sama untuk membuat Game of Life dari Conway. Itulah yang disebut dengan ‘Kata’. </br>
+Sejak itu, banyak programmer yang mengadopsi mataphor dari seni bela diri untuk sesi latihannya. Sesekali beberapa programmer akan berkumpul di Dojo dan berlatih bersama, mirip seperti yang dilakukan seniman bela diri. Di saat lain, programmer juga berlatih sendirian, juga mirip seperti yang dilakukan seniman bela diri. </br></br>
+Terdapat berbagai kegiatan yang dilakukan di Dojo, diantaranya :</br>
 
 #### Kata
 &nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</br>
